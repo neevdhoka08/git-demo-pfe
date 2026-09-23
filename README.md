@@ -1,2 +1,2 @@
 # git-demo-pfe
-pfe git capstone day
+pfe git capstone final day
